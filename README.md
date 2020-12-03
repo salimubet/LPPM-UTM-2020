@@ -53,13 +53,13 @@ Laman: http://lppm.trunojoyo.ac.id Email: lppm@trunojoyo.ac.id
 
 <br>
 
-![](WhatsApp Image 2020-12-03 at 22.35.26 (1).jpeg)
+![](G2.jpeg)
 
 
 
 <br>
 
-![](WhatsApp Image 2020-12-03 at 22.35.26.jpeg)
+![](G3.jpeg)
 
 
 

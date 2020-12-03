@@ -87,5 +87,5 @@ Klik untuk mengunduh
 
 <br>
 
-> Catatan: Aplikasi hanya berjalan pada gawai **Android**
+> Catatan: Aplikasi hanya berjalan pada OS **Android**
 

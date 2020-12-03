@@ -1,8 +1,10 @@
 # QUICK TEST
 
-Oleh: **MOCHAMAD SALIM UBAIDILLAH**
+Oleh: <br>
 
-!<img src="UTM_DIKBUD.png" style="zoom:25%;" />
+**MOCHAMAD SALIM UBAIDILLAH**
+
+<img src="UTM_DIKBUD.png" style="zoom:25%;" />
 
 
 
@@ -10,39 +12,80 @@ Oleh: **MOCHAMAD SALIM UBAIDILLAH**
 
 ## KULIAH KERJA NYATA
 
-TEMATIK “ADAPTASI KEBIASAAN BARU” SEMESTER GASAL TAHUN AKADEMIK 2020/2021
+TEMATIK “ADAPTASI KEBIASAAN BARU” SEMESTER GASAL TAHUN AKADEMIK 2020/2021<br>
 
-LEMBAGA PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT
+LEMBAGA PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT<br>
 
-UNIVERSITAS TRUNOJOYO MADURA Jl. Raya Telang PO BOX. 2 Kamal Bangkalan 69162 Telp. (031) 3012391 Laman: http://lppm.trunojoyo.ac.id Email: lppm@trunojoyo.ac.id
+UNIVERSITAS TRUNOJOYO MADURA<br>
 
-### Constructing Graph
-1. Once it has finished, open Gephi and click `new project`.
-2. Go to `Data Laboratory`, then `edges`. Now, `import spreadsheet`. Select `facebook.csv`.
-3. Go to `Overview`. Choose the `Force Atlas` layout and press play.
-4. Just kinda play around with Gephi until you get something you like :) you can even colour nodes.
+Jl. Raya Telang PO BOX. 2 Kamal Bangkalan 69162 Telp. (031) 3012391<br>
 
-### Saving Graph
-1. Go to `preview` to make sure you like how it looks.
-2. `File > Export >` whatever filetype you want.
-3. Finally you can go to an image editor to draw labels and stuff.
+Laman: http://lppm.trunojoyo.ac.id Email: lppm@trunojoyo.ac.id
 
-## Requirements:
-- Chrome browser
-- Selenium: `pip install Selenium`
-- TQDM: `pip install tqdm`
-- DotEnv: `pip install python-dotenv`
-- Driver according to your Chrome version and OS: https://chromedriver.chromium.org/downloads
-- Gephi, unless you have some other plan for drawing your graph
+<br><br>
 
-## More info:
-Currently does not detect facebook friends who do not have usernames.
-For example, `www.facebook.com/user_name` is detected, but `www.facebook.com/profile.php?id=123456789` is not.
+## Tentang Aplikasi
+- Pengembang :
 
-Also ignores friends who have no mutual friends, and those whose accounts are deactivated.
+  Mochamad Salim Ubaidillah
 
-Waits a few seconds before going to different profiles.
-This makes it slow, but if we go too fast, Facebook will give a temporary ban.
+  170411100097 - Teknik Informatika
 
-I have tried to reduce the risk of getting a temporary ban, but I can't guarantee anything.
-If you get banned, it is not my responsibility.
+- Tahun Pembuatan : 2020, December
+
+- Kelompok : 67
+
+  Desa : Gembong
+
+  Kecamatan : Babat
+
+  Kabupaten : Lamongan
+
+  Provinsi : Jawa Timur
+
+- Dosen Pembimbing Lapangan :
+
+  Muttaqin Choiri,M.Hi (NIDN. 2126098401)
+
+### Tampilan
+
+![OPENING.png](OPENING.png)
+
+<br>
+
+![](WhatsApp Image 2020-12-03 at 22.35.26 (1).jpeg)
+
+
+
+<br>
+
+![](WhatsApp Image 2020-12-03 at 22.35.26.jpeg)
+
+
+
+<br>
+
+### Unduh
+
+Klik untuk mengunduh
+
+[Link 1: Google Drive](https://drive.google.com/file/d/1yhWEZyIpGwOsaGDK1VsZWnxVgOHo88Ak/view?usp=sharing)
+
+[Link 2: Desktop](https://github.com/salimubet/LPPM-UTM-2020/raw/main/Quick-Test-LPPM-UTM-2020-K67.apk)
+
+[Link 3](https://github.com/salimubet/LPPM-UTM-2020/blob/main/Quick-Test-LPPM-UTM-2020-K67.apk?raw=true)
+
+### Cara Install
+
+1. Setelah unduhan (*download*) selesai klik pada aplikasi.
+2. Buka Pengaturan di ponsel Anda dan beralih ke tab "umum", jika perlu.
+3. Ketuk opsi "Keamanan". Pilih kotak centang di sebelah opsi "Sumber Tidak Dikenal".
+4. Konfirmasikan pesan peringatan dengan mengetuk "OK".
+5. Untuk lebih jelas [klik disini.](https://www.google.com/search?q=cara+install+aplikasi+android+pihak+ke+tiga&oq=cara+install+aplikasi+android+pihak+ke+tiga&aqs=chrome..69i57j33i22i29i30.16356j0j4&sourceid=chrome&ie=UTF-8)
+
+
+
+<br>
+
+> Catatan: Aplikasi hanya berjalan pada gawai **Android**
+

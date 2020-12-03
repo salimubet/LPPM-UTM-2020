@@ -2,7 +2,7 @@
 
 Oleh: **MOCHAMAD SALIM UBAIDILLAH**
 
-<img src="C:\Users\user\Downloads\UTM_DIKBUD.png" style="zoom:25%;" />
+![](UTM_DIKBUD.png)
 
 
 
